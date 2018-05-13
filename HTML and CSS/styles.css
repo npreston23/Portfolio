@@ -26,5 +26,10 @@ img {
 }
 
 .quote-box {
-  align-content: center;
+  margin: auto;
+  margin-top: 25px;
+  border-style: solid;
+  border-width: thin;
+  width: 50%;
+
 }
