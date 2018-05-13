@@ -31,5 +31,9 @@ img {
   border-style: solid;
   border-width: thin;
   width: 50%;
+  background-color: #d9edf7;
+}
 
+.indent {
+  padding-left: 20px;
 }
