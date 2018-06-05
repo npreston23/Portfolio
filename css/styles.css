@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+  font-family: times;
+}
+
+img {
+  height: 500px;
+  width: 400px;
+}
+
+.center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;}
+
+.bg-info {
+  font-size: 10px;
+  width: 50%;
+  align: center;
+}
+
+.strong{
+  font-weight: strong;
+
+}
+
+.quote-box {
+  margin: auto;
+  margin-top: 25px;
+  border-style: solid;
+  border-width: thin;
+  width: 50%;
+  background-color: #d9edf7;
+}
+
+.indent {
+  padding-left: 20px;
+
+}
+
+.float-link{
+  float: right;
+  font-size: 10px;
+  margin-right: 10px;
+  padding-top: 20px;
+}
